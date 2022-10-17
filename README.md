@@ -1,1 +1,1 @@
-# 07 products_app flutter Udemy Fernando H. Course Project
+# 07 products_app flutter 
